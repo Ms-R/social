@@ -1,0 +1,12 @@
+
+.header{
+  
+    grid-area: h;
+    background: rgb(255, 60, 0);
+    text-align: center;
+    line-height: 60px;
+  }
+  .header a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
